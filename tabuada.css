@@ -1,0 +1,23 @@
+body { background: #323136;
+    font: normal 15pt sans-serif; 
+
+}
+header{
+    color:#ecfaff;
+    text-align: center;
+
+
+}
+section{
+    background: #001727;
+    border-radius: 10px;
+    padding: 50px;
+    width: 400px;
+    margin: auto;
+    color:#ffefef;
+    box-shadow: #000000;
+}    
+  div {
+    padding: 10px;
+    text-align: center;
+}
